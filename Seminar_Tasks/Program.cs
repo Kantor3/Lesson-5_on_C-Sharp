@@ -21,7 +21,6 @@ int[] GetArrowRandNumber(int size, int minRnd, int maxRnd)
     return randNumber;
 }
 
-// void ShowArr(dynamic[] arr, string txt="")
 void ShowArr(int[] arr, string txt = "")
 {
     if (txt.Length > 0) Console.WriteLine(txt);
@@ -187,6 +186,7 @@ while (true)
 
     Console.WriteLine($"Найдено {CountInRange(arr3, rangeFor, rangeTo)} элементов");
 }
+// *** Конец Задачи 34 ***
 
 
 /* Задача 35: Найдите произведение пар чисел в одномерном массиве. 
@@ -224,3 +224,4 @@ while (true)
     int[] powerArr = PowerArr(arr4);
     ShowArr(powerArr, "Обращенный массив: ");
 }
+// *** Конец Задачи 35 ***
