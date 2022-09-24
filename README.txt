@@ -69,4 +69,4 @@ https://learn.microsoft.com/ru-ru/dotnet/csharp/nullable-references
 // *** Конец Задачи ... ***
 
 
-# -Lesson-5_on_C-Sharp
+# Lesson-5_on_C-Sharp
